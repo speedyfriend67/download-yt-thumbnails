@@ -1,0 +1,4 @@
+https://img.youtube.com/vi/video-id-here/mqdefault.jpg
+https://img.youtube.com/vi/video-id-here/hqdefault.jpg
+https://img.youtube.com/vi/video-id-here/sddefault.jpg
+https://img.youtube.com/vi/video-id-here/maxresdefault.jpg
